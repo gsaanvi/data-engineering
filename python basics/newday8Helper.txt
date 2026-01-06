@@ -1,0 +1,7 @@
+Hello
+Welcome to python learnings
+Step1: basics
+Step2: Libraries
+Step3: ML algorithms
+Step4: Data Science, Data Analytics, etc
+New Line
