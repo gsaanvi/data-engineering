@@ -1,14 +1,14 @@
-# Data Engineering & AIML – Python Basics 🐍
+# Data Engineering & AIML – Python Foundations 🐍
 
-This repository contains my **daily Python practice notebooks** as part of my journey into  
-**Data Engineering, AI & Machine Learning**.
+This repository documents my **structured learning journey** toward  
+**Data Analysis, Data Engineering, Artificial Intelligence, and Machine Learning**.
 
-I am building strong fundamentals in Python before moving to advanced topics like
-data handling, automation, and ML pipelines.
+I have completed **Python fundamentals** and am now progressing to  
+**NumPy and Pandas** for data handling and analysis.
 
 ---
 
-## 📁 Folder Structure
+## 📁 Repository Structure
 
 ```text
 python basics/
@@ -19,5 +19,11 @@ python basics/
 ├── day5.ipynb
 ├── day6.ipynb
 ├── day7.ipynb
+├── day8.ipynb
+├── day9.ipynb
+├── day10.ipynb
 ├── day7Helper.py
-└── (and more coming...)
+├── newday8Helper.txt
+└── student.json
+
+
