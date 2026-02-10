@@ -1,0 +1,13 @@
+StudentID,Name,Class,Subject,Marks,Attendance,Result
+101,Aarav,10,Math,85.0,92.0,Pass
+102,Neha,10,Science,92.0,88.0,Pass
+103,Rahul,10,Math,78.0,0.0,Pass
+104,Priya,9,Science,65.0,80.0,Pass
+105,Karan,9,Math,77.7,70.0,Pass
+106,Simran,9,English,88.0,90.0,Pass
+107,Ankit,10,English,55.0,60.0,Pass
+108,Pooja,9,Math,73.0,0.0,Pass
+109,Rohit,10,Science,90.0,85.0,Pass
+110,Sneha,9,English,82.0,95.0,Pass
+111,Arjun,10,Math,77.7,78.0,Pass
+112,Meera,9,Science,69.0,0.0,Pass

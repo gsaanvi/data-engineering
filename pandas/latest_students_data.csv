@@ -1,0 +1,13 @@
+StudentID,Name,Class,Subject,Score,Result,Grade,Performance
+101,Aarav,10,Math,85,Pass,B,V Good
+102,Neha,10,Science,92,Pass,A,V Good
+103,Rahul,10,Math,78,Pass,C,V Good
+104,Priya,9,Science,65,Pass,D,Good
+105,Karan,9,Math,0,Fail,F,Fail
+106,Simran,9,English,88,Pass,B,V Good
+107,Ankit,10,English,55,Pass,E,Average
+108,Pooja,9,Math,73,Pass,C,Good
+109,Rohit,10,Science,90,Pass,A,V Good
+110,Sneha,9,English,82,Pass,B,V Good
+111,Arjun,10,Math,0,Fail,F,Fail
+112,Meera,9,Science,69,Pass,D,Good
